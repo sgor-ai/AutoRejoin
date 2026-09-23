@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+
+# Compiled output
+bin/
+out/
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
