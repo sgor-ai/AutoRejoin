@@ -157,7 +157,7 @@ On Windows:
 The compiled mod is written to:
 
 ```text
-build/libs/autorejoin-1.0.0.jar
+build/libs/autorejoin-1.0.1.jar
 ```
 
 The project uses official Mojang mappings for Minecraft 26.2. Gradle will
