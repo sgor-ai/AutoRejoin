@@ -14,6 +14,14 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/sgor-ai/AutoRejoin/releases/latest">
+    <img src="docs/media/force-enter-button.png" alt="Download the latest Auto Rejoin release" width="620">
+  </a>
+</p>
+
+<p align="center"><strong>Click the button above to download the latest release.</strong></p>
+
+<p align="center">
   <img src="docs/media/hero.svg" alt="Auto Rejoin server queue dashboard" width="900">
 </p>
 
@@ -115,7 +123,7 @@ The multiplayer screen includes a **Force Enter** button:
 4. The mod connects as soon as a slot is detected.
 
 <p align="center">
-  <img src="docs/media/force-enter-button.svg" alt="Minecraft-style Force Enter button" width="820">
+  <img src="docs/media/force-enter-button.png" alt="Force Enter button shown in the mod" width="820">
 </p>
 
 The button uses the same **Force Enter** label shown by the mod in the
