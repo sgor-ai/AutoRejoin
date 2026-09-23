@@ -11,11 +11,11 @@
       <stop offset="1" stop-color="#50b7ed"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="390" rx="28" fill="url(#bg)"/>
-  <text x="60" y="62" fill="#f2fff9" font-family="Arial, sans-serif" font-size="28" font-weight="700">From full server to automatic join</text>
-  <text x="60" y="92" fill="#8ba9ba" font-family="Arial, sans-serif" font-size="17">A lightweight status check keeps your client ready without repeated login attempts.</text>
+  <rect width="1200" height="390" fill="url(#bg)"/>
+  <text x="60" y="62" fill="#f2fff9" font-family="Minecraft, 'Press Start 2P', monospace" font-size="28" font-weight="700">From full server to automatic join</text>
+  <text x="60" y="92" fill="#8ba9ba" font-family="Minecraft, 'Press Start 2P', monospace" font-size="17">A lightweight status check keeps your client ready without repeated login attempts.</text>
   <path d="M205 205H995" stroke="url(#line)" stroke-dasharray="8 10" stroke-width="4"/>
-  <g font-family="Arial, sans-serif" text-anchor="middle">
+  <g font-family="Minecraft, 'Press Start 2P', monospace" text-anchor="middle">
     <g transform="translate(150 190)">
       <circle r="38" fill="#183c4d" stroke="#50b7ed" stroke-width="3"/>
       <text y="10" fill="#ffffff" font-size="25" font-weight="700">1</text>

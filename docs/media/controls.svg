@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
   <title id="title">Auto Rejoin controls</title>
   <desc id="desc">Illustration of the command, F6 keybind, and Force Enter controls.</desc>
-  <rect width="1200" height="420" rx="28" fill="#111d2c"/>
-  <text x="60" y="62" fill="#f2fff9" font-family="Arial, sans-serif" font-size="28" font-weight="700">Three ways to start watching</text>
-  <g font-family="Arial, sans-serif">
+  <rect width="1200" height="420" fill="#111d2c"/>
+  <text x="60" y="62" fill="#f2fff9" font-family="Minecraft, 'Press Start 2P', monospace" font-size="28" font-weight="700">Three ways to start watching</text>
+  <g font-family="Minecraft, 'Press Start 2P', monospace">
     <g transform="translate(60 105)">
       <rect width="330" height="235" rx="18" fill="#172b3b" stroke="#2e5668" stroke-width="2"/>
       <text x="28" y="45" fill="#62e6a7" font-size="15" font-weight="700">COMMAND</text>

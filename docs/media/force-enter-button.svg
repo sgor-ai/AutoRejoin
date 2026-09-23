@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1030 679" role="img" aria-labelledby="title desc">
   <title id="title">Minecraft-style Force Enter button</title>
   <desc id="desc">A Minecraft-style gray button labeled Force Enter.</desc>
-  <rect width="1030" height="679" fill="#e8f2ff"/>
+  <rect width="1030" height="679" fill="#c6d9ee"/>
   <g shape-rendering="crispEdges">
     <rect x="96" y="318" width="838" height="136" fill="#090909"/>
     <rect x="103" y="325" width="824" height="122" fill="#6b6b6b"/>
@@ -12,14 +12,28 @@
     <rect x="111" y="426" width="8" height="8" fill="#5d5d5d"/>
     <rect x="919" y="332" width="8" height="102" fill="#4a4a4a"/>
   </g>
-  <text x="515" y="409"
-        text-anchor="middle"
-        fill="#ffffff"
-        stroke="#3d3d3d"
-        stroke-width="5"
-        paint-order="stroke"
-        font-family="Minecraft, 'Press Start 2P', monospace"
-        font-size="54"
-        font-weight="700"
-        letter-spacing="1">Force Enter</text>
+  <!-- Embedded 5x7 bitmap glyphs: no host font is required on GitHub. -->
+  <defs>
+    <g id="glyph-F"><path d="M0 0h5v1H1v2h3v1H1v3H0z"/></g>
+    <g id="glyph-O"><path d="M1 0h3v1h1v5H4v1H1V6H0V1h1zm0 1H1v4h1v1h2V5h1V2H4V1z"/></g>
+    <g id="glyph-R"><path d="M0 0h4v1h1v3H4v1l1 2H4L3 5H1v2H0zm1 1v3h2v-1h1V1z"/></g>
+    <g id="glyph-C"><path d="M1 0h4v1H1v5h4v1H1V6H0V1h1z"/></g>
+    <g id="glyph-E"><path d="M0 0h5v1H1v2h3v1H1v2h4v1H0z"/></g>
+    <g id="glyph-N"><path d="M0 0h1l3 4V0h1v7H4L1 3v4H0z"/></g>
+    <g id="glyph-T"><path d="M0 0h5v1H3v6H2V1H0z"/></g>
+  </defs>
+  <g transform="translate(320 364) scale(6)" shape-rendering="crispEdges">
+    <g fill="#3d3d3d" transform="translate(1 1)">
+      <use href="#glyph-F"/><use href="#glyph-O" x="6"/><use href="#glyph-R" x="12"/>
+      <use href="#glyph-C" x="18"/><use href="#glyph-E" x="24"/><use href="#glyph-E" x="36"/>
+      <use href="#glyph-N" x="42"/><use href="#glyph-T" x="48"/><use href="#glyph-E" x="54"/>
+      <use href="#glyph-R" x="60"/>
+    </g>
+    <g fill="#ffffff">
+      <use href="#glyph-F"/><use href="#glyph-O" x="6"/><use href="#glyph-R" x="12"/>
+      <use href="#glyph-C" x="18"/><use href="#glyph-E" x="24"/><use href="#glyph-E" x="36"/>
+      <use href="#glyph-N" x="42"/><use href="#glyph-T" x="48"/><use href="#glyph-E" x="54"/>
+      <use href="#glyph-R" x="60"/>
+    </g>
+  </g>
 </svg>
