@@ -3,9 +3,9 @@
   "id": "autorejoin",
   "version": "${version}",
   "name": "Auto Rejoin",
-  "description": "Controlla periodicamente un server pieno e si connette automaticamente non appena si libera un posto.",
+  "description": "Automatically joins a Minecraft server when a slot becomes available.",
   "authors": [
-    "Kyron"
+    "sgor"
   ],
   "license": "MIT",
   "icon": "assets/autorejoin/icon.png",

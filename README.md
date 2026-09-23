@@ -6,6 +6,8 @@
 
 **Automatically join a Minecraft server as soon as a slot becomes available.**
 
+[Created by **sgor**](https://github.com/sgor-ai)
+
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.2-62b47a?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Fabric-26.2-DBD0B4?logo=fabric&logoColor=111111)](https://fabricmc.net/)
 [![Java](https://img.shields.io/badge/Java-25%2B-orange?logo=openjdk&logoColor=white)](https://adoptium.net/)
@@ -123,13 +125,6 @@ The multiplayer screen includes a **Force Enter** button:
 4. The mod connects as soon as a slot is detected.
 
 <p align="center">
-  <img src="docs/media/force-enter-button.png" alt="Force Enter button shown in the mod" width="820">
-</p>
-
-The button uses the same **Force Enter** label shown by the mod in the
-multiplayer screen.
-
-<p align="center">
   <img src="docs/media/controls.svg" alt="Auto Rejoin command, F6, and Force Enter controls" width="900">
 </p>
 
@@ -148,7 +143,7 @@ multiplayer screen.
 Clone the repository and run the Gradle wrapper:
 
 ```bash
-git clone https://github.com/<your-account>/AutoRejoin.git
+git clone https://github.com/sgor-ai/AutoRejoin.git
 cd AutoRejoin
 ./gradlew build
 ```
@@ -216,6 +211,10 @@ guarantee that a slot will still be available when the real connection starts.
 Issues and pull requests are welcome. Please include the Minecraft version,
 Fabric Loader version, relevant log output, and reproducible steps when
 reporting a problem.
+
+## Creator
+
+Auto Rejoin is created and maintained by [sgor](https://github.com/sgor-ai).
 
 ## License
 
