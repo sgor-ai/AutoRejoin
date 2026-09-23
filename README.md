@@ -115,6 +115,13 @@ The multiplayer screen includes a **Force Enter** button:
 4. The mod connects as soon as a slot is detected.
 
 <p align="center">
+  <img src="docs/media/force-enter-button.svg" alt="Minecraft-style Force Enter button" width="820">
+</p>
+
+The button uses the same **Force Enter** label shown by the mod in the
+multiplayer screen.
+
+<p align="center">
   <img src="docs/media/controls.svg" alt="Auto Rejoin command, F6, and Force Enter controls" width="900">
 </p>
 

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1030 679" role="img" aria-labelledby="title desc">
+  <title id="title">Minecraft-style Force Enter button</title>
+  <desc id="desc">A Minecraft-style gray button labeled Force Enter.</desc>
+  <rect width="1030" height="679" fill="#e8f2ff"/>
+  <g shape-rendering="crispEdges">
+    <rect x="96" y="318" width="838" height="136" fill="#090909"/>
+    <rect x="103" y="325" width="824" height="122" fill="#6b6b6b"/>
+    <rect x="110" y="332" width="810" height="8" fill="#858585"/>
+    <rect x="110" y="340" width="810" height="86" fill="#757575"/>
+    <rect x="110" y="426" width="810" height="8" fill="#565656"/>
+    <rect x="103" y="434" width="8" height="13" fill="#434343"/>
+    <rect x="111" y="426" width="8" height="8" fill="#5d5d5d"/>
+    <rect x="919" y="332" width="8" height="102" fill="#4a4a4a"/>
+  </g>
+  <text x="515" y="409"
+        text-anchor="middle"
+        fill="#ffffff"
+        stroke="#3d3d3d"
+        stroke-width="5"
+        paint-order="stroke"
+        font-family="Minecraft, 'Press Start 2P', monospace"
+        font-size="54"
+        font-weight="700"
+        letter-spacing="1">Force Enter</text>
+</svg>
