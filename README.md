@@ -64,14 +64,14 @@ the slot first, checking resumes automatically.
 ## Requirements
 
 - Minecraft **26.2**
-- Fabric Loader **0.19.0 or newer**
-- Fabric API for Minecraft 26.2
+- [Fabric API `0.161.0+26.2`](https://github.com/FabricMC/fabric-api/releases/tag/0.161.0%2B26.2)
 - Java **25 or newer**
+
 
 ## Installation
 
-1. Install Fabric Loader for Minecraft 26.2.
-2. Install the matching Fabric API version.
+1. Install the Minecraft 26.2 Fabric profile with the [official Fabric installer](https://fabricmc.net/use/installer/).
+2. Download [Fabric API `0.161.0+26.2`](https://github.com/FabricMC/fabric-api/releases/tag/0.161.0%2B26.2) and put it in your `mods` folder.
 3. Download the latest `autorejoin-<version>.jar` from
    [Releases](../../releases).
 4. Put the mod JAR in your Minecraft `mods` folder.
