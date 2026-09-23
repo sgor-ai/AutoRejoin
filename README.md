@@ -13,6 +13,13 @@
 
 </div>
 
+<p align="center">
+  <img src="docs/media/hero.svg" alt="Auto Rejoin server queue dashboard" width="900">
+</p>
+
+> **Stop refreshing the multiplayer screen.** Auto Rejoin watches the server
+> for you and makes a normal connection attempt the moment capacity opens.
+
 ## Overview
 
 Auto Rejoin is a client-side Fabric mod for Minecraft 26.2. It periodically
@@ -26,6 +33,10 @@ the slot first, checking resumes automatically.
 
 > **Important:** Use a sensible interval for the server you are checking.
 > Very aggressive polling may trigger server-side rate limits or firewalls.
+
+<p align="center">
+  <img src="docs/media/workflow.svg" alt="Auto Rejoin workflow from configuration to connection" width="900">
+</p>
 
 ## Features
 
@@ -102,6 +113,20 @@ The multiplayer screen includes a **Force Enter** button:
 2. Press **Force Enter**.
 3. Auto Rejoin starts checking that server.
 4. The mod connects as soon as a slot is detected.
+
+<p align="center">
+  <img src="docs/media/controls.svg" alt="Auto Rejoin command, F6, and Force Enter controls" width="900">
+</p>
+
+## At a glance
+
+| What you want | How Auto Rejoin helps |
+| --- | --- |
+| Avoid constant refreshes | Polls the server status automatically |
+| Join quickly | Connects as soon as a slot is detected |
+| Avoid noisy retries | Uses lightweight pings and one normal join attempt |
+| Recover from outages | Backs off up to 30 seconds, then resumes |
+| Start quickly | Use `/autorejoin`, F6, or **Force Enter** |
 
 ## Building from source
 

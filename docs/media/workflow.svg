@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Auto Rejoin workflow</title>
+  <desc id="desc">Four steps: configure, ping, detect a slot, and connect.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop stop-color="#0f1d2b"/>
+      <stop offset="1" stop-color="#182d3a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#55dca1"/>
+      <stop offset="1" stop-color="#50b7ed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+  <text x="60" y="62" fill="#f2fff9" font-family="Arial, sans-serif" font-size="28" font-weight="700">From full server to automatic join</text>
+  <text x="60" y="92" fill="#8ba9ba" font-family="Arial, sans-serif" font-size="17">A lightweight status check keeps your client ready without repeated login attempts.</text>
+  <path d="M205 205H995" stroke="url(#line)" stroke-dasharray="8 10" stroke-width="4"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(150 190)">
+      <circle r="38" fill="#183c4d" stroke="#50b7ed" stroke-width="3"/>
+      <text y="10" fill="#ffffff" font-size="25" font-weight="700">1</text>
+      <text y="82" fill="#e9fff7" font-size="19" font-weight="700">Configure</text>
+      <text y="108" fill="#8ba9ba" font-size="15">Command, F6, or menu</text>
+    </g>
+    <g transform="translate(450 190)">
+      <circle r="38" fill="#193f43" stroke="#55dca1" stroke-width="3"/>
+      <text y="10" fill="#ffffff" font-size="25" font-weight="700">2</text>
+      <text y="82" fill="#e9fff7" font-size="19" font-weight="700">Status ping</text>
+      <text y="108" fill="#8ba9ba" font-size="15">Lightweight server query</text>
+    </g>
+    <g transform="translate(750 190)">
+      <circle r="38" fill="#193f43" stroke="#55dca1" stroke-width="3"/>
+      <text y="10" fill="#ffffff" font-size="25" font-weight="700">3</text>
+      <text y="82" fill="#e9fff7" font-size="19" font-weight="700">Slot detected</text>
+      <text y="108" fill="#8ba9ba" font-size="15">Capacity is available</text>
+    </g>
+    <g transform="translate(1050 190)">
+      <circle r="38" fill="#214339" stroke="#f3bc5b" stroke-width="3"/>
+      <text y="10" fill="#ffffff" font-size="25" font-weight="700">4</text>
+      <text y="82" fill="#e9fff7" font-size="19" font-weight="700">Connect</text>
+      <text y="108" fill="#8ba9ba" font-size="15">One normal join attempt</text>
+    </g>
+  </g>
+</svg>

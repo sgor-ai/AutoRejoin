@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Auto Rejoin controls</title>
+  <desc id="desc">Illustration of the command, F6 keybind, and Force Enter controls.</desc>
+  <rect width="1200" height="420" rx="28" fill="#111d2c"/>
+  <text x="60" y="62" fill="#f2fff9" font-family="Arial, sans-serif" font-size="28" font-weight="700">Three ways to start watching</text>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(60 105)">
+      <rect width="330" height="235" rx="18" fill="#172b3b" stroke="#2e5668" stroke-width="2"/>
+      <text x="28" y="45" fill="#62e6a7" font-size="15" font-weight="700">COMMAND</text>
+      <rect x="28" y="72" width="274" height="58" rx="10" fill="#0b1520"/>
+      <text x="45" y="108" fill="#eafff6" font-family="Consolas, monospace" font-size="15">/autorejoin start ...</text>
+      <text x="28" y="170" fill="#ffffff" font-size="19" font-weight="700">Precise and scriptable</text>
+      <text x="28" y="198" fill="#8ba9ba" font-size="15">Choose address, port, interval.</text>
+    </g>
+    <g transform="translate(435 105)">
+      <rect width="330" height="235" rx="18" fill="#172b3b" stroke="#2e5668" stroke-width="2"/>
+      <text x="28" y="45" fill="#50b7ed" font-size="15" font-weight="700">KEYBIND</text>
+      <rect x="28" y="70" width="92" height="62" rx="12" fill="#d9e5eb"/>
+      <text x="74" y="110" text-anchor="middle" fill="#172b3b" font-size="24" font-weight="700">F6</text>
+      <text x="28" y="170" fill="#ffffff" font-size="19" font-weight="700">Toggle in one press</text>
+      <text x="28" y="198" fill="#8ba9ba" font-size="15">Remappable in Controls.</text>
+    </g>
+    <g transform="translate(810 105)">
+      <rect width="330" height="235" rx="18" fill="#172b3b" stroke="#2e5668" stroke-width="2"/>
+      <text x="28" y="45" fill="#f3bc5b" font-size="15" font-weight="700">MULTIPLAYER MENU</text>
+      <rect x="28" y="72" width="274" height="58" rx="10" fill="#203e4c"/>
+      <text x="165" y="108" text-anchor="middle" fill="#eafff6" font-size="18" font-weight="700">FORCE ENTER</text>
+      <text x="28" y="170" fill="#ffffff" font-size="19" font-weight="700">Select and start</text>
+      <text x="28" y="198" fill="#8ba9ba" font-size="15">Works from the server list.</text>
+    </g>
+  </g>
+</svg>
